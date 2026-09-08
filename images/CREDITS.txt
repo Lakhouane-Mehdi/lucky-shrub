@@ -1,0 +1,9 @@
+Image credits - all photographs are CC0 / public domain (no attribution required;
+credited here as good practice). Sourced via the Openverse API (api.openverse.org).
+
+banner.jpg       "Flowers Garden"   - StockSnap, CC0 1.0
+design.jpg       "Patio Furniture"  - StockSnap, CC0 1.0
+maintenance.jpg  "Watering can garden" - Rawpixel, CC0 1.0
+nursery.jpg      "Succulent Plant"  - StockSnap, CC0 1.0
+
+Logos: Lucky Shrub logo files supplied with the course assignment brief.
