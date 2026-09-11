@@ -11,6 +11,22 @@ Both render the same brand. The React version adds a mobile menu, a validated co
 
 > **Note:** Lucky Shrub is not a real business. The prices, address, phone number and testimonials on the site are placeholder content written for the project.
 
+## Screenshots
+
+![The Lucky Shrub home page in light mode, showing the logo, navigation and hero banner](docs/home-light.png)
+
+The same page with dark mode enabled from the toggle in the navigation bar:
+
+![The home page in dark mode, with a deep green background and teal logo](docs/home-dark.png)
+
+Services and pricing, with the middle tier highlighted:
+
+![Three service cards above three pricing tiers, the middle one marked Most popular](docs/services-pricing.png)
+
+The nursery details and client testimonials:
+
+![The nursery section with address and opening hours beside a succulent photograph, above three testimonial cards](docs/nursery-testimonials.png)
+
 ## Built with
 
 - React 19
