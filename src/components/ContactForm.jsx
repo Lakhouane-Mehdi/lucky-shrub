@@ -32,7 +32,7 @@ export default function ContactForm() {
   }
 
   return (
-    <section className="contact" id="contact" aria-labelledby="contact-title">
+    <section className="contact reveal" id="contact" aria-labelledby="contact-title">
       <h2 id="contact-title">Book a consultation</h2>
 
       {sent && (

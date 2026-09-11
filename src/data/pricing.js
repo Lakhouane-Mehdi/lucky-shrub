@@ -1,0 +1,45 @@
+export const pricing = [
+  {
+    id: "consult",
+    name: "Consultation",
+    price: "$150",
+    unit: "one-off",
+    summary: "A two-hour visit and a written plan you can build from.",
+    features: [
+      "Two hours on site",
+      "Planting and layout plan",
+      "Plant list with quantities",
+      "Fee credited against a full design",
+    ],
+    featured: false,
+  },
+  {
+    id: "design",
+    name: "Design & Build",
+    price: "From $4,800",
+    unit: "per project",
+    summary: "We design the garden, then our own crew builds it.",
+    features: [
+      "Everything in Consultation",
+      "Full planting and hardscape design",
+      "3D visuals before we start",
+      "Built by our team, not subcontractors",
+      "One year of plant replacement",
+    ],
+    featured: true,
+  },
+  {
+    id: "care",
+    name: "Seasonal Care",
+    price: "$180",
+    unit: "per month",
+    summary: "Regular visits so the garden keeps looking new.",
+    features: [
+      "Monthly maintenance visit",
+      "Seasonal pruning and feeding",
+      "Irrigation checks",
+      "Priority booking in spring",
+    ],
+    featured: false,
+  },
+];
